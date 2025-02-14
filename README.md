@@ -1,0 +1,2 @@
+# PrivacyPolicy
+google play PrivacyPolicy
